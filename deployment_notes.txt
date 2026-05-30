@@ -1,0 +1,8 @@
+1. Flash Raspberry Pi OS
+2. Enable Camera
+3. Install Python
+4. Install OpenCV
+5. Install ONNX Runtime
+6. Pair Bluetooth Headphones
+7. Connect VL53L1X
+8. Run Project
