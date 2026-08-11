@@ -1,3 +1,5 @@
+![Blind Assist Companion Banner](project%20images/banner.png)
+
 # 👁️ Blind Assist Companion
 > **A Smart Gen-AI Assistive System Integrating Mobile & Edge-Computing for Visually Impaired Empowerment.**
 
@@ -142,7 +144,7 @@ This project was built with passion by **NeuroEdge**:
 ## 📬 Contact the Author
 
 👨‍💻 **Author**: Samarth Kale  
-📧 **Email**: [samarthkale1098@example.com](mailto:samarthkale1098@example.com)  
+📧 **Email**: [samarthkale1098@gmail.com](mailto:samarthkale1098@gmail.com)  
 💼 **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/samarthkale5556)  
 🌐 **Portfolio**: [samarthkale.dev](https://samarthkale.dev)  
 🐙 **GitHub**: [@SamarthKale5556](https://github.com/SamarthKale5556)
