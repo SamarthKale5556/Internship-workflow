@@ -11,6 +11,57 @@ The **Blind Assist Companion** (developed under **NeuroEdge**) is a cutting-edge
 
 ---
 
+## 🏆 Project Journey, Achievements & Recognition
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="project%20images/sih-2026.jpg" alt="Smart India Hackathon 2026 - Team NeuroEdge prototype demonstration and health-tech presentation" width="100%" />
+      <br /><br />
+      <strong>Smart India Hackathon 2026</strong>
+      <br /><br />
+      Showcasing our team's continued journey in innovation, engineering and problem-solving.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="project%20images/tsm-2026-national-hackathon.jpg" alt="TSM 2026 National Hackathon - Team NeuroEdge at Thiagarajar School of Management" width="100%" />
+      <br /><br />
+      <strong>TSM 2026 — National Hackathon</strong>
+      <br /><br />
+      Presenting our assistive-technology work and learning through national-level hackathon participation.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="project%20images/crieya-project-expo.jpg" alt="CRiEYA Project Expo - Centre for Research, Innovation, Entrepreneurship and Youth Affairs prototype showcase" width="100%" />
+      <br /><br />
+      <strong>CRiEYA Project Expo</strong>
+      <br /><br />
+      Demonstrating Blind Assist Companion and sharing our progress in AI-powered assistive technology.
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="project%20images/blind-school-visits.jpg" alt="Blind School Visits and User Feedback - Structured accessibility field testing with students" width="100%" />
+      <br /><br />
+      <strong>Blind School Visits & User Feedback</strong>
+      <br /><br />
+      Engaging with students and educators to understand accessibility needs and guide future design improvements.
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📂 Proof of Work
+
+The following resources provide demonstrations, development artifacts, and project documentation:
+
+| # | Resource | Link | Description |
+| :-: | :--- | :--- | :--- |
+| **1** | **Demo Video** | [Watch Demonstration Video](https://drive.google.com/file/d/1NRRZX97QWAj-ICKpftIdIh7wfJ9RFxNy/view?usp=drivesdk) | Watch the project demonstration to see Blind Assist Companion and its assistive features in action. |
+| **2** | **Development Work & Supporting Files** | [Explore Development Files](https://drive.google.com/drive/folders/15M_rvt6kMfqwtbiX8uaKJBTZkBr2hYFj?usp=drive_link) | Explore the development work, supporting materials, and project artifacts. |
+| **3** | **Complete Project Journey** | [Browse Project Journey](https://drive.google.com/drive/folders/15Ai_SeLNHRLg0uejuIq8P3xEutds1BA-) | Browse the project's development journey, milestones, and supporting documentation. |
+
+---
+
 ## 📅 Project Timeline & Key Milestones
 
 ```mermaid
@@ -46,6 +97,30 @@ This phase scaled the prototype into a comprehensive, production-ready Android m
 * 📶 **Hardware-Software Integration (BLE & Wi-Fi)**: Built real-time diagnostic communications with a **Raspberry Pi Zero 2 W** host (monitoring CSI cameras, VL53L1X Time-of-Flight ranging sensors, and GPIO hardware buttons).
 * 🚨 **Emergency SOS System**: Created a single-tap SOS button that shares live GPS coordinates, initiates priority phone calls, and triggers automated WhatsApp & SMS alerts to registered emergency contacts.
 * 🗣️ **Advanced TTS Integration**: Incorporated Sarvam AI and native Android Text-to-Speech engines for low-latency, natural auditory feedback.
+
+---
+
+## 🕶️ Version 2 — AI-Powered Smart Sunglasses (In Development)
+
+**Timeline:** 1 July 2026 – Present  
+**Status:** In Development (Version 1 remains frozen as the validated technical baseline)
+
+![Version 2 smart-sunglasses prototype under development](project%20images/version-2-smart-sunglasses.png)  
+*Current Version 2 smart-sunglasses prototype — hardware integration and product refinement are in development.*
+
+Version 2 focuses on evolving Blind Assist Companion into a more compact, comfortable and practical wearable assistive system. Development explores smart-sunglasses integration, a dedicated ESP32-S3 camera module, Android-based on-device AI processing, voice guidance and improved power integration. The goal is to reduce wearable bulk, simplify charging and improve the overall user experience.
+
+> [!NOTE]
+> **Engineering Status & Verification Notice:**  
+> Version 2 represents an ongoing research and development evolution. The smart sunglasses form factor, dedicated ESP32-S3 wireless camera module, smartphone-side AI inference pipeline, unified single-battery system, and single-port charging solution described in this section are currently under active exploratory development and prototyping. They are not presented as completed, fully integrated, or production-validated features. All operational benchmarks, hardware specifications, and system performance metrics documented throughout the rest of this repository correspond strictly to the validated, frozen Version 1 baseline.
+
+### 🔬 Key Exploration & R&D Areas
+
+* **Discreet Eyewear Form Factor**: Exploring transitions from the V1 headband assembly to an ergonomic smart-sunglasses frame to minimize wearable bulk, eliminate head fatigue, and prioritize user comfort and dignity.
+* **Dedicated ESP32-S3 Camera Module**: Evaluating low-power, lightweight ESP32-S3 camera hardware for real-time visual capture while isolating computational heat away from the wearer's head.
+* **On-Device Phone-Side AI Processing**: Investigating offloading visual processing and model execution to the Android mobile companion to balance edge power constraints with low-latency multimodal reasoning.
+* **Integrated Power & Single-Port Charging**: Researching unified battery management and simplified single-cable charging architectures to replace multi-cell configurations and enhance daily usability.
+* **Audio Guidance & Interaction**: Prototyping direct voice feedback mechanisms compatible with open-ear headphones and Bluetooth audio peripherals.
 
 ---
 
@@ -148,3 +223,15 @@ This project was built with passion by **NeuroEdge**:
 💼 **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/samarthkale5556)  
 🌐 **Portfolio**: [samarthkale.dev](https://samarthkale.dev)  
 🐙 **GitHub**: [@SamarthKale5556](https://github.com/SamarthKale5556)
+
+---
+
+## 📄 License & Intellectual Property
+
+This project is licensed under the **MIT License (with Patent & Design Rights Expressly Reserved)**. See the complete [`LICENSE`](LICENSE) file for legal details.
+
+* **Software Copyright**: &copy; 2026 Samarth Kale, Shrushti Shinde, Shrikant Kudale (Team NeuroEdge).
+* **Institutional Incubation**: Centre for Research, Innovation, Entrepreneurship and Youth Affairs (CRiEYA), MIT Art, Design and Technology University, Pune.
+* **Patent Rights Notice**: Patent applications are pending with the Indian Patent Office (Office of the Controller General of Patents, Designs and Trade Marks, Mumbai). This software license covers only the copyright in the code and documentation and expressly does not grant any patent licenses, rights, or immunities, whether express or implied.
+* **Third-Party Components**: Third-party libraries, datasets, and models (including Vosk, OpenCV, Android Jetpack, Gemini API, and Sarvam AI) remain the property of their respective owners and are subject to their own licenses and terms of service.
+

@@ -1,0 +1,61 @@
+MIT License (with Patent Rights Expressly Reserved)
+
+Copyright (c) 2026 Samarth Kale, Shrushti Shinde, Shrikant Kudale (Team NeuroEdge)
+Institutional Incubation: MIT Art, Design and Technology University, Pune
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+PATENT AND INDUSTRIAL DESIGN RIGHTS RESERVATION:
+This license covers only the copyright in the original software code and documentation
+authored by the copyright holders. This license does NOT grant, whether expressly,
+by implication, estoppel, exhaustion, or otherwise, any license, right, covenant not
+to sue, or immunity under any patents, patent applications, utility models, or
+registered industrial designs.
+
+In particular, all patent and industrial-design rights are strictly reserved by
+MIT Art, Design and Technology University, Pune and the student inventors
+(Samarth Kale, Shrushti Shinde, Shrikant Kudale) with respect to all intellectual
+property filings, including without limitation:
+1. Indian Patent Application (The Patents Act, 1970; Patent Office, Mumbai) titled:
+   "A WEARABLE ASSISTIVE SYSTEM WITH COOPERATIVE DUAL-TIER EDGE-MOBILE ARCHITECTURE
+   AND ZERO-TOUCH PROVISIONING FOR VISUALLY IMPAIRED USERS, AND A METHOD THEREOF",
+   co-applied by MIT Art, Design and Technology University, Pune and the student inventors; and
+2. Indian Industrial Design Application (The Designs Act, 2000; Patent Office, Kolkata) for:
+   "HEAD-MOUNTED WEARABLE ASSISTIVE DEVICE" (Locarno Classification 14-02 / 16-06),
+   co-applied by MIT Art, Design and Technology University, Pune and the student inventors.
+
+THIRD-PARTY LICENSES AND NOTICES:
+This repository incorporates, references, or interfaces with third-party software,
+models, and cloud services, each governed by its respective terms and licenses:
+- Vosk Speech Recognition SDK & Model (vosk-model-small-en-us-0.15):
+  Apache License 2.0, Copyright 2020 Alpha Cephei Inc.
+- OpenCV: Apache License 2.0, Copyright (c) OpenCV Foundation.
+- Android Jetpack, Compose, CameraX, Room, Hilt:
+  Apache License 2.0, Copyright (c) The Android Open Source Project / Google LLC.
+- Google Gemini Generative AI Client SDK:
+  Governed by the Google APIs Terms of Service and Generative AI Additional Terms.
+- Sarvam AI Speech-to-Text & Text-to-Speech APIs:
+  Governed by Sarvam AI Developer Terms of Service.
+- Ultralytics YOLOv8 (Phase 1 prototype object detector):
+  GNU AGPL-3.0 / Commercial License, Copyright (c) Ultralytics Inc.
+- Retrofit & OkHttp: Apache License 2.0, Copyright (c) Square, Inc.
+
+No license or permission granted herein modifies, overrides, or expands the terms
+of any third-party open-source or proprietary licenses.
+
+DISCLAIMER:
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS, COPYRIGHT HOLDERS, INVENTORS, OR INSTITUTIONAL CO-APPLICANTS BE LIABLE
+FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
